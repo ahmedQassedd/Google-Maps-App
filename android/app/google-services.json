@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370179580836",
+    "project_id": "maps-f3bb6",
+    "storage_bucket": "maps-f3bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370179580836:android:b7ab3d5d925b030e3b1731",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhovH-dpLEV3XGjIQY4XWcgidmfgkgcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
