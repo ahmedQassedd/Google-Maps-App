@@ -1,6 +1,6 @@
 # Google Maps App
 
-### Quick Click It's an app to get your current location and search for any place then get directions
+### This app serves as a sophisticated location and search tool, enabling users to pinpoint their current location and explore other destinations, while providing detailed directions, time, and distance between them.
 
 
 <p align="left" width="100%">
