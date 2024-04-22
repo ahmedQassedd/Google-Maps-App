@@ -1,16 +1,21 @@
-# google_maps
+# Google Maps App
 
-A new Flutter project.
+### Quick Click It's an app to get your current location and search for any place then get directions
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="left" width="100%">
+    <img width="27.7%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-04-22%20at%208.25.39%20PM.png?alt=media&token=96db3f7a-a672-41a2-954d-3bd6b4679bcc">
+    <img width="30%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-04-22%20at%208.26.09%20PM.png?alt=media&token=1ae167fd-0fb1-464e-9aaa-bd74dc30c542">
+    <img width="30%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-04-22%20at%208.26.31%20PM.png?alt=media&token=98a16a8a-0628-46e3-81d7-a4028023b6fb">
+    <img width="30%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.01.26%20PM.png?alt=media&token=7c773840-e428-4a35-bca4-5948e7d4384d">
+    <img width="30%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-04-22%20at%208.27.11%20PM.png?alt=media&token=91d63a2d-8522-41e6-ab16-57c6bdde4309">
+    <img width="30%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-04-22%20at%208.28.37%20PM.png?alt=media&token=8f4bdd1d-e266-4ee3-8324-459f7bcfb9d9">
 
-A few resources to get you started if this is your first Flutter project:
+    
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Video For the App:
+
+#### https://drive.google.com/file/d/1x1hjR-SuNCVWX-avfMTfdlxlv9wJTCnP/view?usp=sharing
